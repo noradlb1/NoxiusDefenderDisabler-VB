@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.Form1.resources
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\bin\Debug\NoxiusDefenderDisabler.exe.config
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\bin\Debug\NoxiusDefenderDisabler.exe
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\bin\Debug\NoxiusDefenderDisabler.pdb
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.exe
+C:\Users\MONSTERMC\Downloads\NoxiusDefenderDisabler-main\NoxiusDefenderDisabler-main\obj\Debug\NoxiusDefenderDisabler.pdb
